@@ -1,33 +1,30 @@
-# 🏴‍☠️ Treasure Hunt
+# 🧩 Sudoku Generator
 
-A treasure-hunting game built with Base44!  
-Grab your metal detector, hit the sandy beach, and uncover hidden loot as you level up, upgrade your gear, and chase massive combos!
+A Sudoku game built with Base44!  
+Solve puzzles in Easy, Medium, and Hard modes, check your progress, or reveal the full solution anytime.
+Your progress is automatically saved using LocalStorage, so you can continue right where you left off.
 <br><br>
 
 ## 🎮 Gameplay Overview
 
-You begin with a basic metal detector and a stretch of beach sand.
-Every dig can uncover:
-
-* Common items  
-* Rare relics  
-* Ultra-valuable treasures  
-* Combo-boosting bonuses  
-
-As you scan and dig, you build combo chains, earn coins, and unlock levels, zones, and gear upgrades.
+* Three difficulty levels – Easy, Medium, Hard
+* Real-time progress checks – See if your moves are correct
+* Smart solution engine – Show full solution for any puzzle
+* LocalStorage support – Keeps your puzzle progress even after refresh
 <br><br>
 
 ## 🛠️ Tech Stack
 
 * React 
+* TailwindCSS 
 * Local storage
 <br><br>
 
 ## 🚀 Future Plans
 
-* New maps
-* Unlockable tools beyond metal detectors
-* Rare mythic items
+* Timer & high-scores table
+* More board sizes (4×4, 16×16 Sudoku)
+* Themes (dark/light/system)
 <br><br>
 
 ## Screenshots
@@ -36,22 +33,14 @@ As you scan and dig, you build combo chains, earn coins, and unlock levels, zone
 
 <img src='./src/images/screenshot_1.png' width='700'/>
 
-#### Playing
+#### Solved
 
 <img src='./src/images/screenshot_2.png' width='700'/>
-
-#### Upgrade Shop
-
-<img src='./src/images/screenshot_3.png' width='700'/>
-
-#### Museum
-
-<img src='./src/images/screenshot_4.png' width='700'/>
 <br><br>
 
 ## 💻 Installation
 
-    git clone https://github.com/alfinaim/Treasure-Hunt.git
-    cd Treasure-Hunt
+    git clone https://github.com/alfinaim/Sudoku-Generator.git
+    cd Sudoku-Generator
     npm install
     npm start
