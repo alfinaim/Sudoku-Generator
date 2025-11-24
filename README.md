@@ -3,6 +3,8 @@
 A Sudoku game built with Base44!  
 Solve puzzles in Easy, Medium, and Hard modes, check your progress, or reveal the full solution anytime.
 Your progress is automatically saved using LocalStorage, so you can continue right where you left off.
+
+[Github Pages Link](https://alfinaim.github.io/Sudoku-Generator/)
 <br><br>
 
 ## 🎮 Gameplay Overview
