@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sudoku-Generator/static/css/main.d660cde8.css",
+    "main.js": "/Sudoku-Generator/static/js/main.979ff83a.js",
+    "static/js/453.c6db5024.chunk.js": "/Sudoku-Generator/static/js/453.c6db5024.chunk.js",
+    "static/media/logo.svg": "/Sudoku-Generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sudoku-Generator/index.html",
+    "main.d660cde8.css.map": "/Sudoku-Generator/static/css/main.d660cde8.css.map",
+    "main.979ff83a.js.map": "/Sudoku-Generator/static/js/main.979ff83a.js.map",
+    "453.c6db5024.chunk.js.map": "/Sudoku-Generator/static/js/453.c6db5024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d660cde8.css",
+    "static/js/main.979ff83a.js"
+  ]
+}
